@@ -8,7 +8,7 @@ const Centerimage = ({ src }) => {
       <img
         src={src}
         alt="center-image"
-        width="50%"
+        width="75%"
         style={{ margin: "0 auto" }}
       />
     </div>
