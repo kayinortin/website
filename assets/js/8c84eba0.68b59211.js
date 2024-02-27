@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkedison=self.webpackChunkedison||[]).push([[50],{5180:t=>{t.exports=JSON.parse('{"title":"Git","slug":"/category/git","permalink":"/docs/category/git","navigation":{"previous":{"title":"Intro","permalink":"/docs/intro"},"next":{"title":"Git Version Control System","permalink":"/docs/Git/1"}}}')}}]);
