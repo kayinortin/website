@@ -1,5 +1,6 @@
 ---
 id: 1
+slug: intro
 title: Intro
 description: Git Flow is a branching model for Git that helps teams manage their codebase and collaborate effectively. It provides a set of guidelines and best practices for organizing branches and releases in a Git repository.
 keywords: [Git, Git Version, Git Order]
