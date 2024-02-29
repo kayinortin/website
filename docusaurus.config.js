@@ -59,7 +59,7 @@ const config = {
         title: "Edison's Notes",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "https://edison-frontend-notes.s3.ap-northeast-1.amazonaws.com/edison'logo.png",
         },
         items: [
           {
