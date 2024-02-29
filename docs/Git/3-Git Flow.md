@@ -4,6 +4,7 @@ title: Git Flow
 description: Git Flow is a branching model for Git that helps teams manage their codebase and collaborate effectively. It provides a set of guidelines and best practices for organizing branches and releases in a Git repository.
 keywords: [Git, Git Flow, Git Order]
 ---
+import CenterImage from "@site/src/components/helper/CenterImage"
 
 # Git Flow
 
@@ -32,8 +33,6 @@ The typical workflow in Git Flow is as follows:
 7. Create a new hotfix branch from the master branch: `git flow hotfix start <hotfix-version>`.
 8. Fix the critical issue on the hotfix branch and commit your changes.
 9. Finish the hotfix and merge it back into both the master and develop branches: `git flow hotfix finish <hotfix-version>`.
-
-import CenterImage from "@site/src/components/helper/CenterImage"
 
 ## A successful Git branching model
 
